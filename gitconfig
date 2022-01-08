@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = randzoh@outlook.com
+	name = Randja Raharijaona
